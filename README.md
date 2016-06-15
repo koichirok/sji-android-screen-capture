@@ -1,3 +1,9 @@
+Notice
+===================
+This is a clone repo of https://github.com/sjitech/sji-android-screen-capture.
+
+As mentioned in orignal repo, this project is closed. Please refer to another better project such as https://github.com/openstf/stf.
+
 Android Fast Screen Capture & Caster & Recorder & Remote Controller From PC's Browser
 ===================
 This project is aimed to provide a fast way to capture android screen and view,record,remote control it from PC's HTML5 browser.<br/>
